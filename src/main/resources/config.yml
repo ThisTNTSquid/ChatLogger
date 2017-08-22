@@ -1,0 +1,11 @@
+# +-----------------------------+
+# | Chat Logger Configuration   |
+# +-----------------------------+
+
+database:
+  host: 'localhost:3306'
+  username: 'root'
+  password: 'toor'
+  schema: 'chatlog'
+
+server-name: 'none'

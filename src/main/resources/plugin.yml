@@ -1,0 +1,4 @@
+name: ChatLogger
+version: 1.0-SNAPSHOT
+main: net.corecrafted.chatlogger.AppLaunch
+author: ThisTNTSquid
